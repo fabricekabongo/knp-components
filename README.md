@@ -19,3 +19,7 @@ To setup and run tests follow these steps:
     composer install
     vendor/bin/phpunit -c tests
 ```
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/fabricekabongo/knp-components/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
